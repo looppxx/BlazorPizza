@@ -1,0 +1,84 @@
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.deps.json
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.dll
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.pdb
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.csproj.AssemblyReference.cache
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.AssemblyInfoInputs.cache
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.AssemblyInfo.cs
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.BlazingComponents.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingComponents.props
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingComponents.props
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingComponents.props
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\scopedcss\bundle\BlazingComponents.styles.css
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.dll
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\refint\BlazingComponents.dll
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.pdb
+C:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\ref\BlazingComponents.dll
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.deps.json
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.dll
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.pdb
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.AssemblyInfo.cs
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.BlazingComponents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingComponents.props
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingComponents.props
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingComponents.props
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\scopedcss\bundle\BlazingComponents.styles.css
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.dll
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\refint\BlazingComponents.dll
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.pdb
+C:\Users\Admin\Downloads\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\ref\BlazingComponents.dll
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.deps.json
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.dll
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.pdb
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.BlazingComponents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingComponents.props
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingComponents.props
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingComponents.props
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\scopedcss\bundle\BlazingComponents.styles.css
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.dll
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\refint\BlazingComponents.dll
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.pdb
+C:\Users\Admin\Downloads\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\ref\BlazingComponents.dll
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.deps.json
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.dll
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\bin\Debug\net7.0\BlazingComponents.pdb
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.AssemblyInfo.cs
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.BlazingComponents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazingComponents.props
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazingComponents.props
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazingComponents.props
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\scopedcss\bundle\BlazingComponents.styles.css
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.dll
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\refint\BlazingComponents.dll
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\BlazingComponents.pdb
+C:\Users\Admin\Downloads\passed\Blazor Pizza\blazor-workshop-main\save-points\00-get-started\BlazingComponents\obj\Debug\net7.0\ref\BlazingComponents.dll

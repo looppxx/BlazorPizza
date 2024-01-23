@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\Admin\\Downloads\\BlazorApp\\blazor-workshop-main\\blazor-workshop-main\\save-points\\00-get-started\\BlazingComponents\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "c:\\Users\\Admin\\Downloads\\BlazorApp\\blazor-workshop-main\\blazor-workshop-main\\save-points\\00-get-started\\BlazingComponents\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazingComponents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazingComponents.props",
+      "PackagePath": "build\\BlazingComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazingComponents.props",
+      "PackagePath": "buildMultiTargeting\\BlazingComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazingComponents.props",
+      "PackagePath": "buildTransitive\\BlazingComponents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

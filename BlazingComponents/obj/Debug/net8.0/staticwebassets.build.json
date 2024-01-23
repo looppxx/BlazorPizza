@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "nXEiv/wvllNonmsothcwRgMHWCxQc3KBvXn1Sflr3zQ=",
+  "Source": "BlazingComponents",
+  "BasePath": "_content/BlazingComponents",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazingComponents\\wwwroot",
+      "Source": "BlazingComponents",
+      "ContentRoot": "c:\\Users\\Admin\\Downloads\\BlazorApp\\blazor-workshop-main\\blazor-workshop-main\\save-points\\00-get-started\\BlazingComponents\\wwwroot\\",
+      "BasePath": "_content/BlazingComponents",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\Admin\\Downloads\\BlazorApp\\blazor-workshop-main\\blazor-workshop-main\\save-points\\00-get-started\\BlazingComponents\\wwwroot\\background.png",
+      "SourceId": "BlazingComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Admin\\Downloads\\BlazorApp\\blazor-workshop-main\\blazor-workshop-main\\save-points\\00-get-started\\BlazingComponents\\wwwroot\\",
+      "BasePath": "_content/BlazingComponents",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "c:\\Users\\Admin\\Downloads\\BlazorApp\\blazor-workshop-main\\blazor-workshop-main\\save-points\\00-get-started\\BlazingComponents\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "BlazingComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Admin\\Downloads\\BlazorApp\\blazor-workshop-main\\blazor-workshop-main\\save-points\\00-get-started\\BlazingComponents\\wwwroot\\",
+      "BasePath": "_content/BlazingComponents",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

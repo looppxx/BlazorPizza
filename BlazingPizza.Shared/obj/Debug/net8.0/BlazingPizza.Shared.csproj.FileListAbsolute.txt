@@ -1,0 +1,16 @@
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net8.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net8.0\BlazingPizza.Shared.deps.json
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net8.0\BlazingPizza.Shared.dll
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net8.0\BlazingPizza.Shared.pdb
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net8.0\BlazingPizza.ComponentsLibrary.dll
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\net8.0\BlazingPizza.ComponentsLibrary.pdb
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\BlazingPizza.Shared.AssemblyInfo.cs
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\BlazingPizza.Shared.csproj.CopyComplete
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\BlazingPizza.Shared.dll
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\refint\BlazingPizza.Shared.dll
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\BlazingPizza.Shared.pdb
+c:\Users\Admin\Downloads\BlazorApp\blazor-workshop-main\blazor-workshop-main\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\net8.0\ref\BlazingPizza.Shared.dll
